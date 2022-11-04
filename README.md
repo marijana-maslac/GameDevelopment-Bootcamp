@@ -5,3 +5,4 @@ Tijekom predavanja i radionica na bootcampu, napravila sam 3D igricu gdje igrač
 Predavač: Antonio Gorišek
 <br> Organizatori: NetScale Agency i Aspira College
 <br> 09/2022 - 09/2022
+<br><br> Projekt se može pogledati na sljedećem linku: https://youtu.be/wq5RHt4oL2k
